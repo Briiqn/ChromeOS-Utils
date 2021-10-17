@@ -2,6 +2,7 @@
 make your school chromebook better in everyway
 Most Utils require Developer Mode enabled
 to enable press esc+refresh+power-button then press Ctrl+D & press enter
+Took 5 minutes because cool
 
 shell script  because i dont have the time to make a gui lol
 
