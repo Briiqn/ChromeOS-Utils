@@ -3,7 +3,7 @@ make your school chromebook better in everyway
 Most Utils require Developer Mode enabled
 to enable press esc+refresh+power-button then press Ctrl+D & press enter
  
-| Took can take minutes-hrs because cool
+| Can take minutes-hrs because cool
 
 shell script  because i dont have the time to make a gui lol (plus i can actually spend the rest of my day functioning as a human being)
 
